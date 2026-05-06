@@ -69,7 +69,7 @@ This dashboard solves these problems using data-driven insights.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1178" height="704" alt="image" src="https://github.com/user-attachments/assets/4fb16d1d-137e-4769-9acb-e2d9535a39e8" />
 
 ---
 
