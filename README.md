@@ -1,3 +1,7 @@
+## 📸 Dashboard Preview
+<img width="1168" height="705" alt="image" src="https://github.com/user-attachments/assets/7c587397-6807-403b-9529-59b0f5befc70" />
+
+
 # 📊 Sales RFM Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -65,12 +69,6 @@ This dashboard solves these problems using data-driven insights.
 - DAX  
 - Power Query  
 - Excel Dataset  
-
----
-
-## 📸 Dashboard Preview
-<img width="1168" height="705" alt="image" src="https://github.com/user-attachments/assets/7c587397-6807-403b-9529-59b0f5befc70" />
-
 
 ---
 
